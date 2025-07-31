@@ -1,0 +1,22 @@
+Model,Endo DA Combined Test Energies (meV / atom),Endo DA Combined Test Energy R2 ,Endo DA Combined Test Forces (meV / A),Endo DA Combined Test Force R2 
+MACE-OFF23,18.3,0.805,166.0,0.96
+MACE-OFF23_medium_endo_DA_n=8_r_dist_0_3_diverse_solv_0_fine_tuned_rep_1,9.43,0.949,124.0,0.978
+MACE-OFF23_medium_endo_DA_n=8_r_dist_0_3_diverse_solv_25_fine_tuned_rep_1,8.24,0.961,114.0,0.981
+MACE-OFF23_medium_endo_DA_n=8_r_dist_0_3_diverse_solv_50_fine_tuned_rep_1,8.59,0.957,112.0,0.982
+MACE-OFF23_medium_endo_DA_n=8_r_dist_0_3_diverse_solv_75_fine_tuned_rep_1,8.77,0.956,107.0,0.984
+MACE-OFF23_medium_endo_DA_n=8_r_dist_0_3_diverse_solv_100_fine_tuned_rep_1,10.9,0.931,114.0,0.981
+MACE-OFF23_medium_endo_DA_n=8_r_dist_1_5_diverse_solv_0_fine_tuned_rep_1,10.5,0.936,97.0,0.986
+MACE-OFF23_medium_endo_DA_n=8_r_dist_1_5_diverse_solv_25_fine_tuned_rep_1,9.57,0.947,82.4,0.99
+MACE-OFF23_medium_endo_DA_n=8_r_dist_1_5_diverse_solv_50_fine_tuned_rep_1,8.02,0.963,85.4,0.989
+MACE-OFF23_medium_endo_DA_n=8_r_dist_1_5_diverse_solv_75_fine_tuned_rep_1,10.5,0.937,90.3,0.988
+MACE-OFF23_medium_endo_DA_n=8_r_dist_1_5_diverse_solv_100_fine_tuned_rep_1,10.9,0.932,101.0,0.985
+MACE-OFF23_medium_endo_DA_n=8_r_dist_3_0_diverse_solv_0_fine_tuned_rep_1,11.8,0.919,103.0,0.985
+MACE-OFF23_medium_endo_DA_n=8_r_dist_3_0_diverse_solv_25_fine_tuned_rep_1,10.0,0.942,86.6,0.989
+MACE-OFF23_medium_endo_DA_n=8_r_dist_3_0_diverse_solv_50_fine_tuned_rep_1,8.14,0.962,86.7,0.989
+MACE-OFF23_medium_endo_DA_n=8_r_dist_3_0_diverse_solv_75_fine_tuned_rep_1,7.94,0.963,87.1,0.989
+MACE-OFF23_medium_endo_DA_n=8_r_dist_3_0_diverse_solv_100_fine_tuned_rep_1,9.9,0.943,95.5,0.987
+MACE-OFF23_medium_endo_DA_n=8_r_dist_6_0_diverse_solv_0_fine_tuned_rep_1,11.6,0.922,98.2,0.986
+MACE-OFF23_medium_endo_DA_n=8_r_dist_6_0_diverse_solv_25_fine_tuned_rep_1,9.95,0.943,87.6,0.989
+MACE-OFF23_medium_endo_DA_n=8_r_dist_6_0_diverse_solv_50_fine_tuned_rep_1,10.8,0.933,90.2,0.988
+MACE-OFF23_medium_endo_DA_n=8_r_dist_6_0_diverse_solv_75_fine_tuned_rep_1,10.9,0.931,91.4,0.988
+MACE-OFF23_medium_endo_DA_n=8_r_dist_6_0_diverse_solv_100_fine_tuned_rep_1,11.6,0.922,95.6,0.987

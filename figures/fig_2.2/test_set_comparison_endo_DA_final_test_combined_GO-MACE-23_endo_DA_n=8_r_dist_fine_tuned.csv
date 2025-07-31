@@ -1,0 +1,22 @@
+Model,Endo DA Combined Test Energies (meV / atom),Endo DA Combined Test Energy R2 ,Endo DA Combined Test Forces (meV / A),Endo DA Combined Test Force R2 
+GO-MACE-23,20.3,0.762,831.0,0.00198
+GO-MACE-23_endo_DA_n=8_r_dist_0_3_diverse_solv_0_fine_tuned_rep_1,17.4,0.825,317.0,0.854
+GO-MACE-23_endo_DA_n=8_r_dist_0_3_diverse_solv_25_fine_tuned_rep_1,13.8,0.89,128.0,0.976
+GO-MACE-23_endo_DA_n=8_r_dist_0_3_diverse_solv_50_fine_tuned_rep_1,14.2,0.883,129.0,0.976
+GO-MACE-23_endo_DA_n=8_r_dist_0_3_diverse_solv_75_fine_tuned_rep_1,12.7,0.907,122.0,0.979
+GO-MACE-23_endo_DA_n=8_r_dist_0_3_diverse_solv_100_fine_tuned_rep_1,12.1,0.916,135.0,0.974
+GO-MACE-23_endo_DA_n=8_r_dist_1_5_diverse_solv_0_fine_tuned_rep_1,21.6,0.731,352.0,0.821
+GO-MACE-23_endo_DA_n=8_r_dist_1_5_diverse_solv_25_fine_tuned_rep_1,13.8,0.891,110.0,0.983
+GO-MACE-23_endo_DA_n=8_r_dist_1_5_diverse_solv_50_fine_tuned_rep_1,12.5,0.909,106.0,0.984
+GO-MACE-23_endo_DA_n=8_r_dist_1_5_diverse_solv_75_fine_tuned_rep_1,12.0,0.917,108.0,0.983
+GO-MACE-23_endo_DA_n=8_r_dist_1_5_diverse_solv_100_fine_tuned_rep_1,11.7,0.921,113.0,0.982
+GO-MACE-23_endo_DA_n=8_r_dist_3_0_diverse_solv_0_fine_tuned_rep_1,17.6,0.821,299.0,0.871
+GO-MACE-23_endo_DA_n=8_r_dist_3_0_diverse_solv_25_fine_tuned_rep_1,14.1,0.885,111.0,0.982
+GO-MACE-23_endo_DA_n=8_r_dist_3_0_diverse_solv_50_fine_tuned_rep_1,13.7,0.892,107.0,0.983
+GO-MACE-23_endo_DA_n=8_r_dist_3_0_diverse_solv_75_fine_tuned_rep_1,13.4,0.897,109.0,0.983
+GO-MACE-23_endo_DA_n=8_r_dist_3_0_diverse_solv_100_fine_tuned_rep_1,14.1,0.885,116.0,0.981
+GO-MACE-23_endo_DA_n=8_r_dist_6_0_diverse_solv_0_fine_tuned_rep_1,18.9,0.794,324.0,0.848
+GO-MACE-23_endo_DA_n=8_r_dist_6_0_diverse_solv_25_fine_tuned_rep_1,15.0,0.87,113.0,0.982
+GO-MACE-23_endo_DA_n=8_r_dist_6_0_diverse_solv_50_fine_tuned_rep_1,14.1,0.886,105.0,0.984
+GO-MACE-23_endo_DA_n=8_r_dist_6_0_diverse_solv_75_fine_tuned_rep_1,12.7,0.906,107.0,0.984
+GO-MACE-23_endo_DA_n=8_r_dist_6_0_diverse_solv_100_fine_tuned_rep_1,13.5,0.895,111.0,0.982

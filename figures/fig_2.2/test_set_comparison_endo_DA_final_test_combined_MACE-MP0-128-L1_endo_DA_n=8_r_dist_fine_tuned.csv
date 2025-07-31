@@ -1,0 +1,22 @@
+Model,Endo DA Combined Test Energies (meV / atom),Endo DA Combined Test Energy R2 ,Endo DA Combined Test Forces (meV / A),Endo DA Combined Test Force R2 
+MACE-MP0,17.1,0.832,429.0,0.735
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_0_3_diverse_solv_0_fine_tuned_rep_1,24.3,0.657,671.0,0.35
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_0_3_diverse_solv_25_fine_tuned_rep_1,24.2,0.661,202.0,0.941
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_0_3_diverse_solv_50_fine_tuned_rep_1,25.6,0.62,206.0,0.939
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_0_3_diverse_solv_75_fine_tuned_rep_1,27.4,0.567,242.0,0.915
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_0_3_diverse_solv_100_fine_tuned_rep_1,21.8,0.725,233.0,0.922
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_1_5_diverse_solv_0_fine_tuned_rep_1,18.6,0.8,693.0,0.305
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_1_5_diverse_solv_25_fine_tuned_rep_1,14.2,0.884,151.0,0.967
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_1_5_diverse_solv_50_fine_tuned_rep_1,19.4,0.782,150.0,0.968
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_1_5_diverse_solv_75_fine_tuned_rep_1,21.8,0.726,163.0,0.962
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_1_5_diverse_solv_100_fine_tuned_rep_1,17.7,0.82,181.0,0.953
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_3_0_diverse_solv_0_fine_tuned_rep_1,20.7,0.752,657.0,0.376
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_3_0_diverse_solv_25_fine_tuned_rep_1,16.1,0.85,178.0,0.954
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_3_0_diverse_solv_50_fine_tuned_rep_1,16.0,0.851,158.0,0.964
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_3_0_diverse_solv_75_fine_tuned_rep_1,12.9,0.904,165.0,0.961
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_3_0_diverse_solv_100_fine_tuned_rep_1,16.4,0.844,189.0,0.949
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_6_0_diverse_solv_0_fine_tuned_rep_1,24.6,0.651,628.0,0.431
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_6_0_diverse_solv_25_fine_tuned_rep_1,17.9,0.815,172.0,0.957
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_6_0_diverse_solv_50_fine_tuned_rep_1,15.6,0.859,153.0,0.966
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_6_0_diverse_solv_75_fine_tuned_rep_1,14.0,0.886,178.0,0.954
+MACE-MP0-128-L1_endo_DA_n=8_r_dist_6_0_diverse_solv_100_fine_tuned_rep_1,17.9,0.815,194.0,0.946
